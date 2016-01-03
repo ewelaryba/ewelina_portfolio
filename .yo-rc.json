@@ -1,0 +1,7 @@
+{
+  "generator-react-webpack": {
+    "appName": "ewelinaPortfolio",
+    "style": "sass",
+    "postcss": false
+  }
+}
